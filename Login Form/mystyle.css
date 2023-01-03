@@ -1,0 +1,85 @@
+
+body
+{
+    background-image: url('bg.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+}
+ .blackFrame
+{
+    
+    width: 120px;
+    height: 250px;
+    margin: 60px 300px 300px 500px;
+    padding: 120px;
+    background: rgba(0, 0, 0, 0.797); background-size: 50% 50%;
+}
+.opacity
+{
+    opacity: 1;
+}
+.whiteFrame
+{   
+    border: 2px solid white;
+    width: 75px;
+    height: 150px;
+    margin: -730px 0px 0px 520px;
+    padding: 120px;
+}
+img
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    margin: -510px 0px 370px 640px;
+}
+.button
+{
+    border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    margin: -350px 100px 10px -40px;
+    color: black;
+    font-size: 100%;
+    background-color: red;
+    border: 1px solid red;
+    cursor: pointer;
+}
+.uname
+{
+    width: 47%;
+}
+.psw
+{
+    width: 47%;
+    text-align: left;
+}
+.form
+{
+    margin: -390px 300px 300px 625px;
+}
+p
+{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.first-letter {
+    font-size: 35px;
+    line-height: 70px;
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.inputs
+{
+
+    color: white;
+    font-size: 100%;
+    margin-left: -18%;
+}
+span.psw {
+    margin-left: -18%;
+  
+}
